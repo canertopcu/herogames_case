@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 400116f36d9c25c40ab6e96710268c91, type: 3}
+  m_Name: ItemUpgrades
+  m_EditorClassIdentifier: 
+  itemUpgrades:
+    _serializedList:
+    - Key: Item1
+      Value:
+        TargetMachineName: Machine1
+        AffectType: 0
+        Power: 2
+    - Key: Item2
+      Value:
+        TargetMachineName: Machine1
+        AffectType: 0
+        Power: 2
+    - Key: Item3
+      Value:
+        TargetMachineName: Machine3
+        AffectType: 0
+        Power: 2
+    - Key: Item4
+      Value:
+        TargetMachineName: Machine4
+        AffectType: 1
+        Power: 0.2

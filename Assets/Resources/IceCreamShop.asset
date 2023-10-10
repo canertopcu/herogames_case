@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c0c7903901192547a910861ca10fc5e, type: 3}
+  m_Name: IceCreamShop
+  m_EditorClassIdentifier: 
+  machines:
+    _serializedList:
+    - Key: Machine1
+      Value: {fileID: 11400000, guid: d3db3909aa2a526489f203dc7f0d9c9b, type: 2}
+    - Key: Machine2
+      Value: {fileID: 11400000, guid: f7c71222acc73c24a9d7dde91db7dde3, type: 2}
+    - Key: Machine3
+      Value: {fileID: 11400000, guid: fa9e84279e683904ebe88c80416a34bc, type: 2}
+    - Key: Machine4
+      Value: {fileID: 11400000, guid: 5d35f22fa4f0b1f4f9581c6c5fa8326f, type: 2}
+    - Key: Machine5
+      Value: {fileID: 11400000, guid: 4e797ca75f0ab2f4dac5537501db86ee, type: 2}
